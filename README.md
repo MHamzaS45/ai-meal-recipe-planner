@@ -1,6 +1,6 @@
-# 🔴 Smart Cooking Assistant
+# 🔴 Meal Recipe Planner 
 
-An AI Recipe planner for meals built with StreamLit and powered by GroqAPI. Simply list the ingredients you have, and watch as your assistant provides you with an easy to understand recipe.
+A recipe planner for meals built with StreamLit and powered by GroqAPI key. Simply list the ingredients you have, and watch as your assistant provides you with an easy to understand recipe.
 
 ## 🌐 Live Demo
 
